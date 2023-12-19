@@ -47,6 +47,6 @@ Microsoft PowerBI file to be added soon.
  - https://grouplens.org/datasets/movielens/
 
 ### Contact
-Please feel free to reach out to ashmitan20@gmail.com for any questions or any changes you propose.
+Please feel free to reach out to yossfashrafalashmony@gmail.com@gmail.com for any questions or any changes you propose.
 
 
